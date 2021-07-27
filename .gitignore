@@ -114,8 +114,8 @@ dmypy.json
 .pyre/
 
 # pictures and qrcode
-name_card_EnglishName/*
-qr_code_ChineseName/*
+name_card_EnglishName/*.jpg
+qr_code_ChineseName/*.jpg
 
 # cssa info
 cssa_members_info.csv
