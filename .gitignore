@@ -119,3 +119,9 @@ qr_code_ChineseName/*
 
 # cssa info
 cssa_members_info.csv
+
+# ipynb
+main.ipynb
+
+# vscode setting
+.vscode
